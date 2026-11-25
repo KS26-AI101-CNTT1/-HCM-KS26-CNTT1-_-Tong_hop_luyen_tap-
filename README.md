@@ -68,10 +68,6 @@ Chính xác, khách quan.
 E - Extras
 Chỉ trả về duy nhất mã JSON hợp lệ, không chào hỏi, không giải thích gì thêm.
 
-======================================================
-BA TIN NHẮN CẦN XỬ LÝ
-======================================================
-
 <tin_nhan>
 TN1: Mình muốn đặt gói Sân Vận Động trận tứ kết ngày 20/12 nha, 2 người lớn với 1 bé 8 tuổi, vé thường.
 
