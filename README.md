@@ -3,7 +3,7 @@
 
 - **Họ tên: LE TUAN KIET**
 - **Lớp: CNTT1**
-- **Link repository Pha1:**
+- **Link repository Pha1: https://github.com/KS26-AI101-CNTT1/-HCM-KS26-CNTT1-_-Tong_hop_luyen_tap-.git**
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
